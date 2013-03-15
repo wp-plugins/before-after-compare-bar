@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This Plugin allows you to create different comparison or before/after blocks that you can either use for doctors to show before and after effects of a surgery or you may want to show an upcoming match between two teams or two individuals. 
+This Plugin allows you to create different comparison or before/after blocks that you can either use for doctors to show before and after effects.
 
 == Description ==
 This Plugin allows you to create different comparison or before/after blocks that you can either use for doctors to show before and after effects of a surgery or you may want to show an upcoming match between two teams or two individuals. 
@@ -30,7 +30,9 @@ Read more instructions about how to use here http://www.wpfruits.com/downloads/w
  -   Comes with a widget to show the bars in the Sidebar
  -   Last but not the least its FREE
 
+This is a Plugin from <a title="Cool Wordpress Plugins" href="http://www.wpfruits.com/?ref=wp">WPFruits</a>
 
+For More Details please visit http://www.wpfruits.com/downloads/wp-plugins/compare-bar-before-after-wordpress-plugin/?ref=wp
 == Installation ==
     
    -Upload the plugin folder to the /wp-content/plugins/ folder of your wordpress installation.
@@ -44,11 +46,16 @@ http://www.wpfruits.com/wp-content/uploads/2013/03/comparebar2.png
    http://www.wpfruits.com/wp-content/uploads/2013/03/comparebar1.png
 
 
-For More Details please visit http://www.wpfruits.com/downloads/wp-plugins/compare-bar-before-after-wordpress-plugin/
+For More Details please visit http://www.wpfruits.com/downloads/wp-plugins/compare-bar-before-after-wordpress-plugin/?ref=wp
+
+This is a Plugin from <a title="Cool Wordpress Plugins" href="http://www.wpfruits.com/?ref=wp">WPFruits</a>
 
 == Frequently asked questions ==
 
+
 = I will add them as I get them =
+
+This is a Plugin from <a title="Cool Wordpress Plugins" href="http://www.wpfruits.com/?ref=wp">WPFruits</a>
 
 An answer to that question.
 
