@@ -12,34 +12,35 @@ This Plugin allows you to create different comparison or before/after blocks tha
 
 == Description ==
 This Plugin allows you to create different comparison or before/after blocks that you can either use for doctors to show before and after effects of a surgery or you may want to show an upcoming match between two teams or two individuals. 
- -   Adds a cool block to your page.
- -   You can create any number of compare bars and use them on your pages using the shortcode.
- -   You can customize it to great extent
- -   Easily manageable back-end.
- -   Comes with a widget to show the bars in the Sidebar
- -   Last but not the least its FREE
+-   Adds a cool block to your page.
+-   You can create any number of compare bars and use them on your pages using the shortcode.
+-   You can customize it to great extent
+-   Easily manageable back-end.
+-   Comes with a widget to show the bars in the Sidebar
+-   Last but not the least its FREE
 
 
 Read more instructions about how to use here http://www.wpfruits.com/downloads/wp-plugins/compare-bar-before-after-wordpress-plugin/
 
 =Features  =
- -   Adds a cool block to your page.
- -   You can create any number of compare bars and use them on your pages using the shortcode.
- -   You can customize it to great extent
- -   Easily manageable back-end.
- -   Comes with a widget to show the bars in the Sidebar
- -   Last but not the least its FREE
+-   Adds a cool block to your page.
+-   You can create any number of compare bars and use them on your pages using the shortcode.
+-   You can customize it to great extent
+-   Easily manageable back-end.
+-   Comes with a widget to show the bars in the Sidebar
+-   Last but not the least its FREE
 
 This is a Plugin from <a title="Cool Wordpress Plugins" href="http://www.wpfruits.com/?ref=wp">WPFruits</a>
 
 For More Details please visit http://www.wpfruits.com/downloads/wp-plugins/compare-bar-before-after-wordpress-plugin/?ref=wp
 == Installation ==
     
-   -Upload the plugin folder to the /wp-content/plugins/ folder of your wordpress installation.
-   -Activate the plugin. 
-   -You will see an option at the left bottom of the wordpress options in the left sidebar.
-   -Click on it to set the options
-   -Then just create a new comparebar or edit the existing one. 
+-Upload the plugin folder to the /wp-content/plugins/ folder of your wordpress installation.
+-Activate the plugin. 
+-You will see an option at the left bottom of the wordpress options in the left sidebar.
+-Click on it to set the options
+-Then just create a new comparebar or edit the existing one. 
+
 http://www.wpfruits.com/wp-content/uploads/2013/03/comparebar2.png
    -Click on edit and add the options to for the compare bar you have created and get going. 
    -Use the shortcode to display it on the page/post or you can use the widget if you want to show them in the sidebar
