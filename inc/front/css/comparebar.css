@@ -1,6 +1,6 @@
 /*- CompareBar Front End Style
 --------------------------------------*/
-#comparebar {width:315px;background:#750400;padding:5px;font-family:arial;position:relative;}
+#comparebar {width:315px;background:#750400;padding:5px;font-family:arial;position:relative;box-sizing:content-box;-moz-box-sizing: content-box;}
 #comparebar .cbar_clear{clear:both;}
 #comparebar .cbar_title{color: #FFFFFF;font-size: 12px; line-height:14px;text-align: center; text-transform: uppercase; margin-bottom: 3px;}
 #comparebar .cbar_images{}

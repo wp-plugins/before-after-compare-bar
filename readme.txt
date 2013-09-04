@@ -3,8 +3,8 @@ Contributors: rahulbrilliant2004, tikendramaitry, Nishant Jain
 Donate link: http://www.wpfruits.com
 Tags: before and after, match fixers, comparison bar, compare products, show before and after for doctors
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.0.0
+Tested up to: 3.6
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,27 +12,28 @@ This Plugin allows you to create different comparison or before/after blocks tha
 
 == Description ==
 This Plugin allows you to create different comparison or before/after blocks that you can either use for doctors to show before and after effects of a surgery or you may want to show an upcoming match between two teams or two individuals. 
--   Adds a cool block to your page.
--   You can create any number of compare bars and use them on your pages using the shortcode.
--   You can customize it to great extent
--   Easily manageable back-end.
--   Comes with a widget to show the bars in the Sidebar
--   Last but not the least its FREE
+* Adds a cool block to your page.
+* You can create any number of compare bars and use them on your pages using the shortcode.
+* You can customize it to great extent
+* Easily manageable back-end.
+* Comes with a widget to show the bars in the Sidebar
+* Last but not the least its FREE
 
 
 Read more instructions about how to use here http://www.wpfruits.com/downloads/wp-plugins/compare-bar-before-after-wordpress-plugin/
 
-=Features  =
--   Adds a cool block to your page.
--   You can create any number of compare bars and use them on your pages using the shortcode.
--   You can customize it to great extent
--   Easily manageable back-end.
--   Comes with a widget to show the bars in the Sidebar
--   Last but not the least its FREE
+= Features  =
+* Adds a cool block to your page.
+* You can create any number of compare bars and use them on your pages using the shortcode.
+* You can customize it to great extent
+* Easily manageable back-end.
+* Comes with a widget to show the bars in the Sidebar
+* Last but not the least its FREE
 
 This is a Plugin from <a title="Cool Wordpress Plugins" href="http://www.wpfruits.com/?ref=wp">WPFruits</a>
 
 For More Details please visit http://www.wpfruits.com/downloads/wp-plugins/compare-bar-before-after-wordpress-plugin/?ref=wp
+
 == Installation ==
     
 -Upload the plugin folder to the /wp-content/plugins/ folder of your wordpress installation.
@@ -67,6 +68,15 @@ http://www.wpfruits.com/wp-content/uploads/2013/03/comparebar2.png
 
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Fixed issue with WordPress 3.6 version and Twenty Thirteen Theme
+
+= 1.0.0 =
+
+* Initial release
+
 
 
 
