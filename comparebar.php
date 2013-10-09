@@ -4,7 +4,7 @@ Plugin Name:Comparebar Plugin
 Plugin URI: http://www.wpfruits.com
 Description: This plugin will show the comparision between two members
 Author: Wpfruits
-Version: 1.0.1
+Version: 1.0.2
 Author URI: http://www.wpfruits.com
 */
 //----------------------------------------------------------------------------------
@@ -54,6 +54,21 @@ function comp_install(){
 		dbDelta($sql);
 }
 
+// Runs when plugin is activated and creates new database field
+register_activation_hook(__FILE__,'comparebar_plugin_install');
+
+add_action('admin_init', 'comparebar_plugin_redirect');
+function comparebar_plugin_activate() {
+    add_option('comparebar_plugin_do_activation_redirect', true);
+}
+
+function comparebar_plugin_redirect() {
+    if (get_option('comparebar_plugin_do_activation_redirect', false)) {
+        delete_option('comparebar_plugin_do_activation_redirect');
+        wp_redirect('admin.php?page=comparebar');
+    }
+}
+
 function comparebar_plugin_install() {
     add_option('comparebar_options', cbar_defaults());
 	$cbar_version = get_option('cbar_version'); 
@@ -64,10 +79,8 @@ function comparebar_plugin_install() {
 	$table_name = $wpdb->prefix . "comparebar"; 
     $sql = "INSERT INTO " . $table_name . " values ('','comparebar_options','1');";
     $wpdb->query( $sql );
+	comparebar_plugin_activate();
 }
-
-// Runs when plugin is activated and creates new database field
-register_activation_hook(__FILE__,'comparebar_plugin_install');
 
 // get notificationbar version
 function cbar_get_version(){

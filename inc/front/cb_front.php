@@ -58,8 +58,7 @@ function compareBar($option='comparebar_options'){
 					<div class="cbar_clear"></div>
 				</div>
 				<?php $from_this = "http://www.wpfruits.com/downloads/wp-plugins/compare-bar-before-after-wordpress-plugin/?cbar_refs=".$_SERVER['SERVER_NAME']; ?>
-				<a class="cbar_ref" style="display:block !important;visibility:visible !important;bottom: 8px !important; color: #000000 !important; font-size: 11px !important; position: absolute !important; right: 11px !important;text-indent:0 !important;" target="_blank" href="<?php echo $from_this; ?>"><?php _e('CB','cbar'); ?></a>
-			</div>
+				<a class="cbar_ref" style="background: none repeat scroll 0 0 #EEEEEE !important; border: 1px solid #CCCCCC !important; bottom: -14px !important; color: #000000; display: block !important; font-family: arial !important;outline:none; font-size: 10px !important; height: 8px !important; line-height: 9px !important; padding: 2px !important; position: absolute !important; right: 0 !important; text-decoration: none !important; text-indent: 0 !important; visibility: visible !important;" target="_blank" href="<?php echo $from_this; ?>"><?php _e('CB','cbar'); ?></a> </div> 	
 		<!-- CompareBar Ends Here -->
 		
 		<?php

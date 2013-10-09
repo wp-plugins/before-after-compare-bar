@@ -48,7 +48,7 @@ function add_comparebar()
 {
 ?>
 <div id="cbar_addwrap" class="wrap cbar_wrap"><div class="icon32 cbar_icon"><br /></div>
-    <h2><?php _e('Comparebar '.cbar_get_version().'','cbar'); ?></h2>
+    <h2><?php _e('Comparebar '.cbar_get_version().' Setting\'s','cbar'); ?></h2>
 	<?php
 	//comparebar Functions
 	if(isset($_GET['add']) && $_GET['add'])
@@ -143,6 +143,7 @@ function add_comparebar()
 	</table>
 	
 </div>
+<iframe class="cbar_iframe" src="http://www.sketchthemes.com/sketch-updates/plugin-updates/cbar-lite/cbar-lite.php" width="250px" height="370px" scrolling="no" ></iframe> 
 <?php
 }
 ?>

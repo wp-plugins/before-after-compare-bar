@@ -4,7 +4,7 @@ Donate link: http://www.wpfruits.com
 Tags: before and after, match fixers, comparison bar, compare products, show before and after for doctors
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,12 +62,15 @@ This is a Plugin from <a title="Cool Wordpress Plugins" href="http://www.wpfruit
 An answer to that question.
 
 == Screenshots ==
-http://www.wpfruits.com/wp-content/uploads/2013/03/comparebar1.png
-http://www.wpfruits.com/wp-content/uploads/2013/03/comparebar2.png
-
-
+1. Compare bar table.
+2. Compare bar settings.
+3. Compare bar frontend display.
 
 == Changelog ==
+
+= 1.0.2 =
+
+* Fixed few style issues.
 
 = 1.0.1 =
 

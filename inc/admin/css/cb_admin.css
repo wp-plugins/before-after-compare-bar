@@ -23,6 +23,7 @@
 #cbar_message.cbar_updated{background: none repeat scroll 0 0 #555555; border-radius: 3px 3px 3px 3px; color: #FFFFFF; font-weight: bold; line-height: 30px; text-align: center; width: 460px;font-family: verdana;} 
 .cbar_wrap .cbar_icon{background: url("../../images/cbar_icon.png") no-repeat scroll 0 0 transparent;}
 #cbar_message.cbar_updated.cbar_add{width:850px;}
+.cbar_iframe{border:1px solid #dfdfdf;padding:4px;border-radius:2px;margin-top:4px;}
 
 /*-- Edit Comparebar Style
 ------------------------------------*/
