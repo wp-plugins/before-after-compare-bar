@@ -3,8 +3,8 @@ Contributors: rahulbrilliant2004, tikendramaitry, Nishant Jain
 Donate link: http://www.wpfruits.com
 Tags: before and after, match fixers, comparison bar, compare products, show before and after for doctors
 Requires at least: 3.0
-Tested up to: 3.6
-Stable tag: 1.0.2
+Tested up to: 3.9
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,10 @@ An answer to that question.
 
 == Changelog ==
 
+= 1.0.3 =
+
+* Compatible with the WordPress latest version (3.9).
+
 = 1.0.2 =
 
 * Fixed few style issues.
@@ -79,8 +83,6 @@ An answer to that question.
 = 1.0.0 =
 
 * Initial release
-
-
 
 
 == Upgrade notice ==

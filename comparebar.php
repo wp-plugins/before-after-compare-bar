@@ -4,7 +4,7 @@ Plugin Name:Comparebar Plugin
 Plugin URI: http://www.wpfruits.com
 Description: This plugin will show the comparision between two members
 Author: Wpfruits
-Version: 1.0.2
+Version: 1.0.3
 Author URI: http://www.wpfruits.com
 */
 //----------------------------------------------------------------------------------

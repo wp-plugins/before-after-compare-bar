@@ -28,12 +28,13 @@
 /*-- Edit Comparebar Style
 ------------------------------------*/
 #cbar_editwrap{}
-#cbar_editwrap .cbar_editform{width:460px;}
+#cbar_editwrap .cbar_editform{width:500px;}
 #cbar_editwrap table td{padding:8px 1px;}
 #cbar_editwrap table td:first-child{font-size:12px;width:140px;font-weight:bold;}
 #cbar_editwrap table input[type="text"]{}
 #cbar_editwrap .cbar_colwrap{position:relative;width:86px;display:inline-block;}	
-#cbar_editwrap .cbar_colwrap .cbar_color_inp{width:86px;}
-#cbar_editwrap .cbar_colsel{background:url('../../images/color_pick.png');height: 22px;margin-top: 1px;position: absolute;top: 0;width: 22px;right:0;cursor:pointer;}
+#cbar_editwrap .cbar_colwrap .cbar_color_inp{width:86px;height:23px;}
+#cbar_editwrap .cbar_colsel{ background: url("../../images/color_pick.png") repeat scroll 0 0 rgba(0, 0, 0, 0); border-bottom: 1px solid #CCCCCC; border-radius: 2px; cursor: pointer; height: 22px; margin-top: 1px; position: absolute; right: -10px; top: 0; width: 22px;} 	
 #cbar_editwrap .cbar_colsel .farbtastic{z-index: 1;display:none;position:absolute;top:8px;}
 #cbar_editwrap .cbar_disimg{background: none repeat scroll 0 0 #E4E4E4;border: 1px solid #CACACA; padding: 2px;width:60px;margin-left: 3px;} 
+#adminmenuwrap .wp-submenu a[href="admin.php?page=cbar_edit"]{display:none;}
