@@ -1,5 +1,5 @@
 === compare Bar/ Before - After Wordpress Plugin ===
-Contributors: rahulbrilliant2004, tikendramaitry, Nishant Jain
+Contributors: rahulbrilliant2004, tikendramaitry
 Donate link: http://www.wpfruits.com
 Tags: before and after, match fixers, comparison bar, compare products, show before and after for doctors
 Requires at least: 3.0
